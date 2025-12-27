@@ -1,0 +1,21 @@
+{
+  "name": "auth-service",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/rahul-baravkar/mernspace-c-auto-service2#readme",
+  "bugs": {
+    "url": "https://github.com/rahul-baravkar/mernspace-c-auto-service2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahul-baravkar/mernspace-c-auto-service2.git"
+  },
+  "license": "ISC",
+  "author": "rahul rb",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev":"node src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
